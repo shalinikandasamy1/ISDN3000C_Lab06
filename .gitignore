@@ -1,0 +1,23 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Virtual environment folders
+lab06_venv/
+venv/
+env/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE/editor files
+.vscode/
+*.swp
+*.swo
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
