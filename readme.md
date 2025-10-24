@@ -15,7 +15,7 @@ This lab exercise demonstrates interfacing the RDK X-5 development board's GPIO 
   - One side to **3.3V pin (Pin 1)**
   - Other side to **Pin 13 (GPIO27)**
   
-See the circuit picture (![Alt text](media/circuit_photos.JPG)) in  'media' folder for reference.
+See the circuit picture (![Circuit Photo](media/circuit_photos.JPG)) in  'media' folder for reference.
 
 ## Software Setup
 1. Install virtualenv and create a virtual environment with system packages to access `Hobot.GPIO`.
@@ -35,6 +35,7 @@ See the circuit picture (![Alt text](media/circuit_photos.JPG)) in  'media' fold
 ```
 python3 camera.py
 ```
+See  (![Results](media/original.JPG)) (![ResultsEdge](media/edge.JPG)) 
 
 Press the button to take a photo. The LED will flash to confirm the action, and images will be saved in the working directory.
 
