@@ -15,7 +15,7 @@ This lab exercise demonstrates interfacing the RDK X-5 development board's GPIO 
   - One side to **3.3V pin (Pin 1)**
   - Other side to **Pin 13 (GPIO27)**
   
-See the circuit picture (![Circuit Photo](media/circuit_photos.JPG)) in  'media' folder for reference.
+See the circuit picture (![Circuit Photo](media/circuit_photo.JPG)) in  'media' folder for reference.
 
 ## Software Setup
 1. Install virtualenv and create a virtual environment with system packages to access `Hobot.GPIO`.
