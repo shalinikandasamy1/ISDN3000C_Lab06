@@ -1,0 +1,4 @@
+opencv-python>=4.7.0
+numpy>=1.24.0
+
+This specifies the Python packages required for the camera and image processing tasks in your lab, ensuring compatibility with modern versions.
