@@ -35,7 +35,6 @@ See the circuit picture (![Circuit Photo](media/circuit_photo.JPG)) in  'media' 
 ```
 python3 camera.py
 ```
-See  (![Results](media/original.png)) (![ResultsEdge](/media/edge.png)) 
 
 Press the button to take a photo. The LED will flash to confirm the action, and images will be saved in the working directory.
 
