@@ -21,3 +21,15 @@ build/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Media files (ignore images, audio, video)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.ico
+*.svg
+
+
