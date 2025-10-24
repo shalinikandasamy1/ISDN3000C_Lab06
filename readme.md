@@ -35,7 +35,7 @@ See the circuit picture (![Circuit Photo](ISDN3000C_Lab06/media/circuit_photos.J
 ```
 python3 camera.py
 ```
-See  (![Results](ISDN3000C_Lab06/media/original.png)) (![ResultsEdge](ISDN3000C_Lab06/media/edge.png)) 
+See  (![Results](media/original.png)) (![ResultsEdge](/media/edge.png)) 
 
 Press the button to take a photo. The LED will flash to confirm the action, and images will be saved in the working directory.
 
